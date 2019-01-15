@@ -10,5 +10,9 @@ package actividad_a;
  * @author dam
  */
 public class Hola_mundo {
+    public void holaMundo(){
+        System.out.println("version 1.0");
+    
+}
     
 }

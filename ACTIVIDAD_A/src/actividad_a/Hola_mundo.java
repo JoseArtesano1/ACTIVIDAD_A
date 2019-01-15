@@ -11,7 +11,9 @@ package actividad_a;
  */
 public class Hola_mundo {
     public void holaMundo(){
-        System.out.println("version 1.0");
+        System.out.println("version 1.0 de la rama 24");
+        System.out.println(" cambios en la rama 24");
+        System.out.println("cambios Jose");
     
 }
     
